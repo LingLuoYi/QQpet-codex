@@ -5,12 +5,12 @@ SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 SKILL_DIR="$(cd "$SCRIPT_DIR/.." && pwd)"
 ASSET_DIR="$SKILL_DIR/assets/QQpet-codex"
 
-CODEX_HOME="${CODEX_HOME:-$HOME/.codex}"
-TARGET_DIR="$CODEX_HOME/pets/QQpet-codex"
+codex_home_dir="${CODEX_HOME:-$HOME/.codex}"
+TARGET_DIR="$codex_home_dir/pets/QQpet-codex"
 
 required_files=(
   "pet.json"
-  "spritesheet.png"
+  "spritesheet.webp"
   "source-mapping.json"
 )
 
