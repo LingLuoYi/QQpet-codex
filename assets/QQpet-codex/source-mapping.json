@@ -2,83 +2,110 @@
   {
     "state": "idle",
     "row": 0,
-    "source": "1020010241.swf",
     "frames": 6,
-    "transform": null,
-    "scale": 1,
-    "trimToContent": true
-  },
-  {
-    "state": "running-left",
-    "row": 1,
-    "source": "1028020241.swf",
-    "frames": 8,
-    "transform": "mirror-horizontal",
-    "scale": 1,
-    "trimToContent": true
+    "method": "retained approved source, registered from source",
+    "original_reference": "1020010241.swf",
+    "asset": "spritesheet.webp"
   },
   {
     "state": "running-right",
-    "row": 2,
-    "source": "1028020241.swf",
+    "row": 1,
     "frames": 8,
-    "transform": null,
-    "scale": 1,
-    "trimToContent": true
+    "method": "built-in imagegen coherent row repair grounded in original artwork",
+    "original_reference": "1028020241.swf",
+    "asset": "spritesheet.webp"
+  },
+  {
+    "state": "running-left",
+    "row": 2,
+    "frames": 8,
+    "method": "framewise horizontal mirror of approved right gait",
+    "original_reference": "1028020241.swf",
+    "asset": "spritesheet.webp"
   },
   {
     "state": "waving",
     "row": 3,
-    "source": "1023010221.swf",
     "frames": 4,
-    "transform": null,
-    "scale": 1,
-    "trimToContent": true
+    "method": "built-in imagegen coherent row repair grounded in original artwork",
+    "original_reference": "1023010221.swf",
+    "asset": "spritesheet.webp"
   },
   {
     "state": "jumping",
     "row": 4,
-    "source": "1020090221.swf",
     "frames": 5,
-    "transform": null,
-    "scale": 1,
-    "trimToContent": true
+    "method": "built-in imagegen coherent row repair grounded in original artwork",
+    "action": "Planted two-flipper hover greeting; no airborne jump.",
+    "original_reference": "1020090221.swf",
+    "asset": "spritesheet.webp"
   },
   {
     "state": "failed",
     "row": 5,
-    "source": "1020000541.swf",
     "frames": 8,
-    "transform": null,
-    "scale": 1,
-    "trimToContent": true
+    "method": "built-in imagegen coherent row repair grounded in original artwork",
+    "original_reference": "1020000541.swf",
+    "asset": "spritesheet.webp"
   },
   {
     "state": "waiting",
     "row": 6,
-    "source": "1020041221.swf",
     "frames": 6,
-    "transform": null,
-    "scale": 1,
-    "trimToContent": true
+    "method": "built-in imagegen coherent row repair grounded in original artwork",
+    "original_reference": "1020041221.swf",
+    "asset": "spritesheet.webp"
   },
   {
     "state": "running",
     "row": 7,
-    "source": "1020070521.swf",
     "frames": 6,
-    "transform": null,
-    "scale": 1,
-    "trimToContent": true
+    "method": "Built-in imagegen coherent six-frame laptop typing animation",
+    "action": "Focused laptop work with alternating flipper typing and a blink; feet stationary.",
+    "trigger": "Client active-task running state, atlas row7 columns0-5",
+    "asset": "spritesheet.webp"
   },
   {
     "state": "review",
     "row": 8,
-    "source": "1029200331.swf",
+    "frames": 6,
+    "method": "built-in imagegen coherent row repair grounded in original artwork",
+    "action": "Small green case check/closure, cap removal and inspection, yellow-component handling, focused blink/turn, stand-mounted apparatus interaction. Original two neutral connector beats merged.",
+    "original_reference": "1029200331.swf",
+    "asset": "spritesheet.webp"
+  },
+  {
+    "state": "look-directions",
+    "row": 9,
     "frames": 8,
-    "transform": null,
-    "scale": 1.7037037037037037,
-    "trimToContent": true,
-    "targetContentHeight": 190
+    "method": "Retained coherent approved source strip, deterministic shared registration.",
+    "asset": "spritesheet.webp",
+    "angles_degrees": [
+      0.0,
+      22.5,
+      45.0,
+      67.5,
+      90.0,
+      112.5,
+      135.0,
+      157.5
+    ]
+  },
+  {
+    "state": "look-directions",
+    "row": 10,
+    "frames": 8,
+    "method": "Retained coherent approved source strip, deterministic shared registration.",
+    "asset": "spritesheet.webp",
+    "angles_degrees": [
+      180.0,
+      202.5,
+      225.0,
+      247.5,
+      270.0,
+      292.5,
+      315.0,
+      337.5
+    ]
   }
 ]

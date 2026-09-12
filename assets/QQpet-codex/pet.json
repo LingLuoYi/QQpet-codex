@@ -1,6 +1,7 @@
 {
   "id": "QQpet-codex",
   "displayName": "QQpet-codex",
-  "description": "QQPet QGG custom Codex desktop pet with corrected directional running, large-motion hover, and instrument-checking review animations.",
-  "spritesheetPath": "spritesheet.png"
+  "description": "QQPet 桌面宠物：执行任务时使用笔记本敲键盘工作，支持16方向注视。",
+  "spritesheetPath": "spritesheet.webp",
+  "spriteVersionNumber": 2
 }
