@@ -2,6 +2,13 @@
 
 ## Unreleased
 
+- Upgraded to sprite version 2 with a lossless 1536×2288 WebP atlas, 192×208 cells, a neutral slot, and 16 clockwise look directions.
+- Rebuilt artwork and aligned body scale/baselines across animations and look poses.
+- Added six-frame laptop typing for the active-task `running` state (row 7).
+- Preserved the microphone performance, planted hover greeting, blanket sleep, and instrument-checking motifs; condensed review to six keyframes.
+- Mapped directional gaits to the v2 layout: row 1 right, row 2 left.
+- Updated the installer, source mapping, bilingual documentation, and every animation preview; added a reproducible asset check/preview command.
+
 - Added project agent notes and pull request template.
 
 ## 2026-07-11
