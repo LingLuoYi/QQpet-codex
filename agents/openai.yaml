@@ -1,6 +1,6 @@
 interface:
   display_name: "QQpet-codex"
-  short_description: "安装 QQpet-codex Codex 宠物。"
+  short_description: "安装支持 16 方向注视和工作动作的 QQpet-codex v2 宠物。"
   brand_color: "#4F8A8B"
   default_prompt: "Use $QQpet-codex to install the bundled QQpet-codex Codex pet / 安装内置的 QQpet-codex 宠物。"
 
